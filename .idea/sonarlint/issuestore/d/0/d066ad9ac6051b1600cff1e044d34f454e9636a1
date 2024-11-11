@@ -1,0 +1,26 @@
+
+†
+java:S1192:"dDefine a constant instead of duplicating this literal "ĞĞµĞ²ĞµÑ€Ğ½Ñ‹Ğ¹ Ñ„Ğ¾Ñ€Ğ¼Ğ°Ñ‚ UUID." 3 times.( ÷¼ùÿÿÿÿ8¼Š­°2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó¬ïØ8ø©°2
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡²ñ8ı©°2
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øôëĞ8ÂŠ­°2
+
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€ëÌÍ8ÂŠ­°2
+G	java:S106'"+Replace this use of System.out by a logger.(ŞîÂŒ8‚ª°2
+L	java:S106("+Replace this use of System.out by a logger.(ˆÜ®™ûÿÿÿÿ8‚ª°2
+G	java:S106)"+Replace this use of System.out by a logger.(ä£…¬8ÄŠ­°2
+G	java:S106*"+Replace this use of System.out by a logger.(Í«¿8ÄŠ­°2
+G	java:S106+"+Replace this use of System.out by a logger.(×ºóÈ8ÄŠ­°2
+G	java:S106,"+Replace this use of System.out by a logger.(ÓÖÎ·8ÅŠ­°2
+G	java:S1064"+Replace this use of System.out by a logger.(í”¼Ù8ÅŠ­°2
+G	java:S1068"+Replace this use of System.out by a logger.(‚ó‰Ø8ÆŠ­°2
+L	java:S106:"+Replace this use of System.out by a logger.( ÷¼ùÿÿÿÿ8ÆŠ­°2
+F	java:S106>"+Replace this use of System.out by a logger.(ØÔ¶H8ÆŠ­°2
+L	java:S106C"+Replace this use of System.out by a logger.( ÷¼ùÿÿÿÿ8ÇŠ­°2
+G	java:S106G"+Replace this use of System.out by a logger.(·˜¼8ÇŠ­°2
+L	java:S106L"+Replace this use of System.out by a logger.( ÷¼ùÿÿÿÿ8ÇŠ­°2
+L	java:S106P"+Replace this use of System.out by a logger.(™óã¦øÿÿÿÿ8ÇŠ­°2
+K
+java:S1068".Remove this unused "restClient" private field.(§ÙĞğ8‚ª°2
